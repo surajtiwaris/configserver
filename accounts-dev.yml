@@ -1,0 +1,8 @@
+
+  
+accounts:
+  version: 1.0
+  description: 
+    name: "Account Dev server"
+    titile: "This only work for dev region"
+  authoredBy: "Suraj Tiwari Dev"
