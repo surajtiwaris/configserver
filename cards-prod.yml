@@ -1,6 +1,6 @@
 
 
-accounts:
+cards:
   version: 3.0
   description: 
     name: "Cards Prod server"
