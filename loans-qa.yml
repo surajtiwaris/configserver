@@ -3,6 +3,6 @@
 loans:
   version: 2.0
   description: 
-    name: "Loans QA server"
-    titile: "This only work for QA region"
+    name: "Loans QA server changes"
+    titile: "This only work for QA region changes"
   authoredBy: "{cipher}a944305faae4f475f6fafed58ff4fef26e420f439da6a2d4f1e029390c7808ba"
