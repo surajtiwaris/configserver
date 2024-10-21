@@ -1,0 +1,8 @@
+
+
+accounts:
+  version: 3.0
+  description: 
+    name: "Cards Prod server"
+    titile: "This only work for prod region"
+  authoredBy: "Suraj Tiwari prod"
