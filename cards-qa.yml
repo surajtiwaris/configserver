@@ -3,6 +3,6 @@
 cards:
   version: 2.0
   description: 
-    name: "Cards QA server"
-    titile: "This only work for QA region"
+    name: "Cards QA server Envirnoment"
+    titile: "This only work for QA region Envirnoment"
   authoredBy: "Suraj Tiwari QA"
