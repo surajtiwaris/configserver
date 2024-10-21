@@ -3,6 +3,6 @@
 accounts:
   version: 3.0
   description: 
-    name: "Account Production server Env"
-    titile: "This only work for Production region Env"
+    name: "Account Production server Envirnoment"
+    titile: "This only work for Production region Envirnoment"
   authoredBy: "Suraj Tiwari prod"
