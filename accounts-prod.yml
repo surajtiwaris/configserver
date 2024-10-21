@@ -4,5 +4,5 @@ accounts:
   version: 3.0
   description: 
     name: "Account Production server"
-    titile: "This only work for prod region"
+    titile: "This only work for Production region"
   authoredBy: "Suraj Tiwari prod"
