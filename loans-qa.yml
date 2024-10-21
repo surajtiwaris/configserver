@@ -1,0 +1,8 @@
+
+  
+loans:
+  version: 2.0
+  description: 
+    name: "Loans QA server"
+    titile: "This only work for QA region"
+  authoredBy: "Suraj Tiwari QA"
