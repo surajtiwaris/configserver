@@ -1,0 +1,27 @@
+server:
+  port: 8080
+
+spring:
+  datasource:
+    url: jdbc:h2:mem:testdb
+    driver-class-name: org.h2.Driver  # Use hyphen instead of camel case
+    username: sa
+    password: ''
+  
+  h2:
+    console:
+      enabled: true
+  
+  jpa:
+    database-platform: org.hibernate.dialect.H2Dialect
+    hibernate:
+      ddl-auto: update
+    show-sql: true
+
+  
+loans:
+  version: 1.0
+  description: 
+    name: "Loans Dev server"
+    titile: "This only work for dev region"
+  authoredBy: "Suraj Tiwari Dev"
