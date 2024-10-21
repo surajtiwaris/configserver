@@ -1,6 +1,6 @@
 
 
-accounts:
+loans:
   version: 3.0
   description: 
     name: "Loans Prod server"
