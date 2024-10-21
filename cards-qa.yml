@@ -3,6 +3,6 @@
 cards:
   version: 2.0
   description: 
-    name: "Cards QA server Envirnoment"
-    titile: "This only work for QA region Envirnoment"
+    name: "Cards QA server Envirnoment Changes"
+    titile: "This only work for QA region Envirnoment changes"
   authoredBy: "Suraj Tiwari QA"
