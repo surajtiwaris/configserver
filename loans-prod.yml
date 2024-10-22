@@ -3,6 +3,6 @@
 loans:
   version: 3.0
   description: 
-    name: "Loans Prod server"
+    name: "Loans Prod server kirak prod"
     titile: "This only work for prod region"
   authoredBy: "Suraj Tiwari prod"
