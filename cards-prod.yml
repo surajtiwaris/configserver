@@ -3,6 +3,6 @@
 cards:
   version: 3.0
   description: 
-    name: "Cards Prod server"
+    name: "Cards Prod server kirak prod"
     titile: "This only work for prod region"
   authoredBy: "Suraj Tiwari prod"
