@@ -1,0 +1,7 @@
+  
+gatewayserver:
+  version: 1.0
+  description: 
+    name: "gatewayserver Dev server kirak bhai"
+    titile: "This only work for dev region kirak bhai"
+  authoredBy: "Suraj Tiwari gatewayserver"
